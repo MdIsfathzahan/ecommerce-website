@@ -1,0 +1,116 @@
+.container{
+    margin-bottom: 100px;
+}
+.orange-bg{
+    background-color: #fceae8;
+    border-radius: 10px;
+    box-shadow: #f7f8f4;
+}
+.carousel-item{
+    padding: 20px 40px;
+}
+.price{
+    color: #FF136F;
+}
+.nav-item{
+    padding-right: 50px;
+    font-size: 25px;
+    font-weight: 600;
+    background-image: linear-gradient(to top,orange 0% green 90%);
+    padding: 25px;
+
+    text-align: center;
+
+}
+ul li a{
+   background-color: #a2e20d;
+   
+    padding-left: 30px;
+    padding-right: 45px;
+    opacity: .5;
+    font-size: x-large;
+}
+ul li a:hover{
+    background-color: aqua;
+    color: #82ca0d;
+    opacity: 1;
+    border-radius: 5px;
+    cursor: pointer;
+    border-top: 2px solid rgb(238, 20, 20);
+
+}
+h1{
+    font-size: 60px;
+    margin-bottom: 15px;
+   
+}
+h3{
+    border-bottom: 2px solid greenyellow;
+    display: inline-block;
+    margin: auto;
+    background-color: blanchedalmond;
+    padding: 0 25px;
+    opacity: 0.4;
+    margin-bottom: 30px;
+    font-size: 60px;
+}
+h3:hover{
+background-color: rgb(28, 226, 77);
+border-bottom: 5px solid silver;
+color: rgb(0, 0, 0);
+font-weight: 900;
+
+
+}
+.buy-now-button{
+    background-image: linear-gradient(to bottom, #FF589B 0%, #FF136F 100%);
+    color: #fff;
+    border: none;
+    border-radius: 8px;
+    padding: 9px 25px;
+    cursor: pointer;
+    opacity: .5;
+}
+.buy-now-button:hover{
+    background-image: linear-gradient(to bottom, #49e60b 0%, #7915d6 100%);
+    opacity: 1;
+}
+.cat1, .cat2, .cat3{
+    padding: 10px 30px;
+    border-radius: 10px;
+}
+.cat1{
+    background-color: rgb(86, 170, 18);
+}
+.cat2{
+    background-color: rgb(206, 162, 18);
+}
+.cat3{
+    background-color: rgb(13, 209, 183);
+}
+.categories h1{
+    color: white;
+}
+.categories img{
+    width: 100px;
+}
+.card{
+    border: none;
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px lightgray;
+}
+.card-footer{
+    background-color: white;
+    border-top: none;
+}
+#subscribe{
+    height: 300px;
+}
+#subscribe h6{
+    color: gray;
+}
+footer{
+    text-align: center;
+    color: fuchsia;
+    font-size: 20px;
+}
